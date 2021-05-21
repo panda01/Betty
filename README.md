@@ -1,7 +1,5 @@
 # Betty
 
-Some unnercessary changes!
-
 [![Build Status](https://travis-ci.org/holbertonschool/Betty.svg?branch=master)](https://travis-ci.org/holbertonschool/Betty)
 
 ### Installation
